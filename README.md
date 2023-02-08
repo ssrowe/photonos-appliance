@@ -1,5 +1,7 @@
 # Reference for building PhotonOS Virtual Appliance (OVA) using Packer
 
+This is used to create the [vCenter Event Broker Appliace](https://github.com/vmware-samples/vcenter-event-broker-appliance/tree/development) which has been ugraded to the latest version of PhotonOS and has other enhancements.
+
 ## Requirements
 
 * MacOS or Linux Desktop
